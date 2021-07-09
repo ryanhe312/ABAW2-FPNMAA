@@ -1,0 +1,8 @@
+Create annotation file which is a dictionary:
+first level(task): ['AU_Set', 'EXPR_Set', 'VA_Set']
+second level(mode): ['Training_Set', 'Validation_Set'] or ['Test_Set']
+third level(name): [txt_file_name...]
+fourth level(detail): ['label', 'path', 'frames_ids']
+    for VA_Set: label=["valence","arousal"]
+    for EXPR_Set: label=["label"]
+    for AU_Set: label=['AU1', 'AU2', 'AU4', 'AU6', 'AU7', 'AU10', 'AU12', 'AU15', 'AU23', 'AU24', 'AU25', 'AU26']

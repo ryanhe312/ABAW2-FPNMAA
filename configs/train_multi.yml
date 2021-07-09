@@ -1,0 +1,4 @@
+num_workers: 40
+batch_size: 128
+img_size: 128
+dataset_dir: ../dataset/Aff-Wild/

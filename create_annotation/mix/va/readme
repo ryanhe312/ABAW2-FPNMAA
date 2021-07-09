@@ -1,0 +1,4 @@
+Create annotation file which is a dictionary:
+first level((mode): ['Train_Set', 'Validation_Set']
+second level(detail): ['path', 'label']
+    label=[valence, arousal]

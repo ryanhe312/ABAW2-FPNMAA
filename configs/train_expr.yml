@@ -1,0 +1,6 @@
+num_workers: 40
+batch_size: 128
+img_size: 128
+test_set: True
+data_type: EXPR_Set
+dataset_dir: ../dataset/Aff-Wild/
