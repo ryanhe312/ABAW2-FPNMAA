@@ -31,7 +31,6 @@ dataset/
 ├── Aff-Wild
 │   ├── annotations
 │   ├── cropped_aligned
-│   ├── mixedAnnotation
 ```
 
 1. open `create_annotations.py` files in separate dataset folders under `create_annotation/single/` and change the path to dataset there. 
