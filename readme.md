@@ -88,7 +88,7 @@ If your work or research benefits from this repo, please cite the paper below.
 ```
 @misc{he2021feature,
       title={Feature Pyramid Network for Multi-task Affective Analysis}, 
-      author={Ruian He and Zhen Xing and Bo Yan},
+      author={Ruian He and Zhen Xing and Weimin Tan and Bo Yan},
       year={2021},
       eprint={2107.03670},
       archivePrefix={arXiv},
